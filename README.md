@@ -22,7 +22,7 @@ The page uses HTML and CSS to display the content in a pleasant and responsive w
 
 How to run:
 
-To run the page, simply open the websiteandroid.html file in a browser of your choice.
+To run the page, simply open the index.html file in a browser of your choice.
 
 Author:
 
