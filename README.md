@@ -1,6 +1,4 @@
----------------------------
-WEBSITE
----------------------------
+# website
 
 How did the Android mascot come about?
 
@@ -28,6 +26,6 @@ To run the page, simply open the index.html file in a browser of your choice.
 
 Author:
 
-Website created by Hamilton T. J. with online guidance from Professor Gustavo Guanabara. 
-Project designed for the HTML5 and CSS3 course at CursoemVideo. 
+Website created by Hamilton T. J. with online guidance from Professor Gustavo Guanabara.
+Project designed for the HTML5 and CSS3 course at CursoemVideo.
 Used in the student's portfolio, without commercial purposes and for educational purposes.
